@@ -1,7 +1,9 @@
+
+
 const sections= document.querySelectorAll('.section');
 const sectBtns= document.querySelectorAll('.controls');
 const sectBtn = document.querySelectorAll('.control');
-const allSections= document.querySelector('.main-content');
+const allSections =document.querySelector('.main-content');
 
 function PageTransitions(){
     //Button click active class
@@ -33,7 +35,14 @@ function PageTransitions(){
     })
  }
 
+
+
+
+
+
 PageTransitions();
+
+
 
 
 // const sections = document.querySelectorAll('.section');
@@ -108,3 +117,5 @@ PageTransitions();
 
 // // Initialize page transitions
 // PageTransitions();
+
+  
